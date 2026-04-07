@@ -1,2 +1,17 @@
 # Volatility_surface_for_equity_options
-Volatility surface for equity options using Python and Black-Scholes model. Use of numerical methods to extract implied volatility and analyse volatility smile dynamics.
+
+## Overview
+This project builds an implied volatility surface from equity options and implements a simple volatility arbitrage strategy.
+
+## Features
+- Black-Scholes pricing
+- Implied volatility extraction
+- Volatility surface construction
+- Volatility-based trading signals
+
+## Tech Stack
+Python, NumPy, Pandas, SciPy
+
+## Results
+- Volatility smile observed
+- Strategy signals based on IV vs RV
