@@ -1,7 +1,7 @@
 # Volatility_surface_for_equity_options
 
 ## Overview
-This project builds an implied volatility surface from equity options and implements a simple volatility arbitrage strategy.
+The purpose of this project is to build an implied volatility surface from equity options and implements a simple volatility arbitrage strategy.
 
 ## Features
 - Black-Scholes pricing
